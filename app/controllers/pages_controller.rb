@@ -9,6 +9,10 @@ class PagesController < ApplicationController
 
   end
 
+  def contest
+
+  end
+
 
 
 
